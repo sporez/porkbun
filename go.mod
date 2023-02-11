@@ -3,7 +3,7 @@ module github.com/caddy-dns/porkbun
 go 1.18
 
 require (
-	github.com/caddyserver/caddy/v2 v2.5.2
+	github.com/caddyserver/caddy
 	github.com/libdns/porkbun v0.1.0
 
 )
